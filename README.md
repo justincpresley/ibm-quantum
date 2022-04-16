@@ -9,6 +9,7 @@ The protocols that I worked on are seen below. While only a few build on others,
  * [Teleportation](https://github.com/justincpresley/ibm-quantum/blob/master/teleportation.ipynb): [specification](https://qiskit.org/textbook/ch-algorithms/teleportation.html)
  * [One Time Pad](https://github.com/justincpresley/ibm-quantum/blob/master/one_time_pad.ipynb): no available specification
  * [Gottesman–Chuang Digital Signature](https://github.com/justincpresley/ibm-quantum/blob/master/digital_signature.ipynb): [specification](https://arxiv.org/pdf/quant-ph/0105032.pdf)
+ * [Enhanced SVM]((https://github.com/justincpresley/ibm-quantum/blob/master/enhanced_svm.ipynb): [specification](https://qiskit.org/documentation/stable/0.24/tutorials/machine_learning/01_qsvm_classification.html)
 
 IBM allows anyone to not only use the IBM Quantum Lab, but also schedule jupyter notebooks on their own actual quantum machines FREE of charge. To do this, all that is need is to create a login via github, email, or some other method.
 
